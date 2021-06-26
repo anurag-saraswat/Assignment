@@ -1,0 +1,16 @@
+Please refer to the following links for the assignment 4 questions on divide-conquer and backtracking: 
+1.	Compulsory question (20 marks): https://www.spoj.com/problems/BPM2/
+2.	Compulsory question (20 marks): https://www.spoj.com/problems/BTCK/
+3.	Bonus Question (10 marks): https://www.spoj.com/problems/BURGLARY/
+4.	Bonus Question (10 marks): https://www.spoj.com/problems/ADFRUITS/
+5.	In the Google form attached below, there are MCQs for you. Please solve them as well, they will be evaluated separately. 
+
+Marking scheme/instructions - Please go through them carefully:
+1. There is ZERO tolerance for plagiarism. Please ensure that your codes/algorithms are unique. Do not copy from the internet or your friends. (Copied codes are easily detected and penalized straight away!) 
+2. Submit your solutions on SPOJ and share your code / algorithm and SPOJ ID with us using the attached Google form. Please follow the submission format specified in the form. 
+3. Even if the code does not pass the test cases on SPOJ, do not worry, partial marking will be awarded as per the solution. (So, please keep your code well-commented.) 
+4. Try to keep minimal use of library functions. Complete marks will be awarded for the codes written from scratch. 
+5. Please follow the guidelines discussed in the class regarding programming strategies for particular assignment questions. (You may grab some bonus marks from that! ) 
+6. There is no restriction on the programming language, although C language is preferred.
+
+Happy Coding!

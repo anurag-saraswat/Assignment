@@ -1,0 +1,3 @@
+Q1 https://colab.research.google.com/drive/1_GLzVcQ9aTiNY_EPxdJVdtOkmD68hmdW?usp=sharing
+Q2 a https://colab.research.google.com/drive/10MPSQVXNg120yFqS0Zv7U5F585l6uunr?usp=sharing
+Q2 b https://colab.research.google.com/drive/1hn7acxAhMGhXmBcOOXWD1q8H-DVrMXTJ?usp=sharing
